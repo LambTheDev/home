@@ -6,6 +6,7 @@
     pkgs.htop
     pkgs.jq
     pkgs.ncdu
+    pkgs.nixfmt
     pkgs.pv
     pkgs.ripgrep
     pkgs.tree
